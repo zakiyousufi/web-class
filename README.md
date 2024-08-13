@@ -1,2 +1,2 @@
 # web-class
-This is a demo repo for practcing html and css
+This is a demo repo for practcing HTML and CSS
